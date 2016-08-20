@@ -64,6 +64,6 @@ public class TaskBufferAndSteamWithConsumer implements Runnable {
 	 */
 	@Override
 	public String toString() {
-		return "read words using BufferedReader and Stream with Collector";
+		return "read words using BufferedReader and Stream with Consumer";
 	}
 }
